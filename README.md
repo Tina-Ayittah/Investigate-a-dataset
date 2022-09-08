@@ -47,7 +47,7 @@ in this section, the dataset will be explored and augmented to maximize the pote
     5.Is an SMS reminder the reason why some patients show up and others do not?
     6.Is proximity to the hospital a factor for no show?
 
-    <a id='conclusions'></a>
+  <a id='conclusions'></a>
 ## Conclusions
 - Comparing age group with ability to show up, its noticed that people between the ages of 30 to 60 show up more for their appointment as well as people above 100, this could be because they are more health conscious and are constantly engaged in physical activities. There is no clear correlation between patient age and their ability to show up.
 
