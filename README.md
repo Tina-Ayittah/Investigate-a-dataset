@@ -27,7 +27,7 @@
 
 <a id='wrangling'></a>
 ## Data Wrangling
-The next step in the data an### Question(s) for Analysis process is to wrangle our data. This is where we gather, assess and clean our data. Our dataset will be uploaded, checked for cleanliness, and then trimmed and cleaned for analysis
+The next step in the data Analysis process is to wrangle our data. This is where we gather, assess and clean our data. Our dataset will be uploaded, checked for cleanliness, and then trimmed and cleaned for analysis
 
 ### Data Cleaning
 After discussing the structure of the data and the problems that need to be addressed, it is now time to perform those cleaning steps on our dataset.
